@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\_Scripts\Hero.cs" />
+     <Compile Include="Assets\_Scripts\Shield.cs" />
      <None Include="Assets\_Materials\UnlitAlpha.shader" />
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
