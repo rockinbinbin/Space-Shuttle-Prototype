@@ -87,6 +87,7 @@
 -define:UNITY_TEAM_LICENSE
 'Assets/_Scripts/Enemy.cs'
 'Assets/_Scripts/Hero.cs'
+'Assets/_Scripts/Main.cs'
 'Assets/_Scripts/Shield.cs'
 'Assets/_Scripts/Utils.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
