@@ -1,0 +1,13 @@
+/Users/Robin/Desktop/Space SHMUP Prototype/Temp/bin/Debug/UnityEngine.dll
+/Users/Robin/Desktop/Space SHMUP Prototype/Temp/bin/Debug/UnityEditor.dll
+/Users/Robin/Desktop/Space SHMUP Prototype/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Robin/Desktop/Space SHMUP Prototype/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Robin/Desktop/Space SHMUP Prototype/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Robin/Desktop/Space SHMUP Prototype/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Robin/Desktop/Space SHMUP Prototype/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Robin/Desktop/Space SHMUP Prototype/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Robin/Desktop/Space SHMUP Prototype/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Robin/Desktop/Space SHMUP Prototype/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Robin/Desktop/Space SHMUP Prototype/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Robin/Desktop/Space SHMUP Prototype/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Robin/Desktop/Space SHMUP Prototype/Temp/bin/Debug/Mono.Cecil.Mdb.dll
