@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\_Scripts\Enemy.cs" />
      <Compile Include="Assets\_Scripts\Hero.cs" />
      <Compile Include="Assets\_Scripts\Shield.cs" />
      <Compile Include="Assets\_Scripts\Utils.cs" />
