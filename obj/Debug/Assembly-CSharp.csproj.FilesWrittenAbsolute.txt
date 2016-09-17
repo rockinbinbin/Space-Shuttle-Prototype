@@ -11,3 +11,7 @@
 /Users/Robin/Desktop/Space SHMUP Prototype/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/Robin/Desktop/Space SHMUP Prototype/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/Robin/Desktop/Space SHMUP Prototype/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Robin/Desktop/Space SHMUP Prototype/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Robin/Desktop/Space SHMUP Prototype/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Robin/Desktop/Space SHMUP Prototype/obj/Debug/Assembly-CSharp.dll
+/Users/Robin/Desktop/Space SHMUP Prototype/obj/Debug/Assembly-CSharp.dll.mdb
